@@ -8,6 +8,6 @@ namespace VDH1.Students.NiklasWeinreich
 {
     class NiklasW
     {
-        public string FullName { get => "Niklas Weinreich"; }
+        public string FullName { get => "Niklas Weinreich"; } 
     }
 }
